@@ -34,5 +34,3 @@ public class Base {
 		System.out.println("Protected Variable : "+varProtected);
 	}
 }
-
-}
