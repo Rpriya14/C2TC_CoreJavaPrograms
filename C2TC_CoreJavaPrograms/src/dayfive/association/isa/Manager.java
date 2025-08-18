@@ -1,4 +1,4 @@
-package Day5.association.isa;
+package dayfive.association.isa;
 
 public class Manager extends Employee
 {
