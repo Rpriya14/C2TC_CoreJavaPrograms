@@ -1,4 +1,4 @@
-package Day4.thirdpackage;
+package dayfour.thirdpackage;
 
 public class MyClass 
 {
