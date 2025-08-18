@@ -1,5 +1,5 @@
 package Day4.secondpackage;
-import Day4.firstpackage.*;
+import dayfour.firstpackage.*;
 public class Executor 
 {
 	public static void main(String[] args) 

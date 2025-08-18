@@ -1,4 +1,4 @@
-package Day4.firstpackage;
+package dayfour.firstpackage;
 
 public class Base {
 	int varDefault=10;
