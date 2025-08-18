@@ -1,10 +1,11 @@
-package day1;
+package dayone;
 
-public class identifiersDemo 
+public class firstProgram 
 {
 	public static void main(String[] args) 
 	{
 		System.out.println("Hello World");
 	}
+
 
 }
