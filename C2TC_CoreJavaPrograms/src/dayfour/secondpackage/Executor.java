@@ -1,4 +1,4 @@
-package Day4.secondpackage;
+package dayfour.secondpackage;
 import dayfour.firstpackage.*;
 public class Executor 
 {
