@@ -14,7 +14,7 @@ public class SampleStringDemo {
 		System.out.println(s2);
 
 		// Using concatenation to prevent long lines.
-		String longStr = "This is to show " + "how string concatination " + "can happen with additional  "
+		String longStr = "This is to show " + "how string concatenation " + "can happen with additional  "
 				+ "operator.";
 
 		System.out.println(longStr);
