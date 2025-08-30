@@ -2,7 +2,7 @@
 package dayeighteen.map;
 
 import java.util.*;
-import dayeight.interfaces.markerinterfaces.Student;
+import dayeighteen.Student;
 
 class HashMapDemo 
 {
@@ -40,11 +40,11 @@ class HashMapDemo
 		
 		//Hashmap with Integer key and User defined Object as a Value
 		HashMap<Integer,Student> studentMap=new HashMap<Integer,Student>();
-//		studentMap.put(10001,new Student(1,"Aniket",78));
-//		studentMap.put(10005,new Student(2,"Sumit",84));
-//		studentMap.put(10006,new Student(3,"Amit",81));
-//		studentMap.put(10003,new Student(5,"Ankit",72));
-//		studentMap.put(10004,new Student(4,"Anil",78));
+		studentMap.put(10001,new Student(1,"Aniket",78));
+		studentMap.put(10005,new Student(2,"Sumit",84));
+		studentMap.put(10006,new Student(3,"Amit",81));
+		studentMap.put(10003,new Student(5,"Ankit",72));
+		studentMap.put(10004,new Student(4,"Anil",78));
 		System.out.println("Student Details are "+studentMap);
 	}
 }
